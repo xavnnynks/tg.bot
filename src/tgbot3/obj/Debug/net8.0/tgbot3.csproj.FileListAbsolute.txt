@@ -1,0 +1,5 @@
+C:\Users\Семейный\source\repos\tgbot3\obj\Debug\net8.0\tgbot3.csproj.AssemblyReference.cache
+C:\Users\Семейный\source\repos\tgbot3\obj\Debug\net8.0\tgbot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семейный\source\repos\tgbot3\obj\Debug\net8.0\tgbot3.AssemblyInfoInputs.cache
+C:\Users\Семейный\source\repos\tgbot3\obj\Debug\net8.0\tgbot3.AssemblyInfo.cs
+C:\Users\Семейный\source\repos\tgbot3\obj\Debug\net8.0\tgbot3.csproj.CoreCompileInputs.cache

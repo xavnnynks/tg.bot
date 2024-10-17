@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|c:\\users\\\u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|solutionrelative:tgbot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|c:\\users\\\u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\tgbot3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|solutionrelative:tgbot3\\tgbot3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|c:\\users\\\u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\nugget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35C1A944-5E43-43D7-8A9D-C9BA94136E9D}|tgbot3\\tgbot3.csproj|solutionrelative:tgbot3\\nugget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nugget.config",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\nugget.config",
+              "RelativeDocumentMoniker": "tgbot3\\nugget.config",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\nugget.config",
+              "RelativeToolTip": "tgbot3\\nugget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-06T12:03:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\Program.cs",
+              "RelativeDocumentMoniker": "tgbot3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\Program.cs",
+              "RelativeToolTip": "tgbot3\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:01:48.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tgbot3.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\tgbot3.csproj",
+              "RelativeDocumentMoniker": "tgbot3\\tgbot3.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\tgbot3\\tgbot3\\tgbot3.csproj",
+              "RelativeToolTip": "tgbot3\\tgbot3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T13:29:59.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

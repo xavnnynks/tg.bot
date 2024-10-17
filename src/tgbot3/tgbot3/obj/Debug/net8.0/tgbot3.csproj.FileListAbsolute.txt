@@ -1,0 +1,17 @@
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\tgbot3.exe
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\tgbot3.deps.json
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\tgbot3.runtimeconfig.json
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\tgbot3.dll
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\tgbot3.pdb
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.csproj.AssemblyReference.cache
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.AssemblyInfoInputs.cache
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.AssemblyInfo.cs
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.csproj.CoreCompileInputs.cache
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.csproj.Up2Date
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.dll
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\refint\tgbot3.dll
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.pdb
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\tgbot3.genruntimeconfig.cache
+C:\Users\Семейный\source\repos\tgbot3\tgbot3\obj\Debug\net8.0\ref\tgbot3.dll
